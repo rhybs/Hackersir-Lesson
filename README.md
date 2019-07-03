@@ -4,7 +4,7 @@
 
 * [node.js](https://hackmd.io/Y9k_euWFSMut3UKlEx6OAQ)
 
-* [python](https://hackmd.io/@cjchengtw/BJ7kahuvE)
+* [python](https://hackmd.io/@cjchengtw/S1qSEzclH)
 
 * [網路](https://hackmd.io/@cjchengtw/HJxLPM5lH)
 
